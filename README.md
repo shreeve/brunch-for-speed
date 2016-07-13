@@ -19,13 +19,14 @@ Clone this repo manually or use `brunch new dir -s brunch/for-speed`
 * Install:
   * [Node.js](http://nodejs.org): `brew install node` on OS X
   * [Brunch](http://brunch.io): `npm install -g brunch`
-  * Brunch plugins and app dependencies: `npm install`
 
 * Run:
-  * `brunch watch --server` - Builds the project and serves it via HTTP, with auto-build and reload on changes.
-  * `brunch build --production` - Builds a minified project for production.
+  * `brunch watch --server` - Build the project and serve it via HTTP, with auto-build and reload on changes.
+  * `brunch build --production` - Build a minified project for production.
 
 * Learn:
-  * `public/` dir is fully auto-generated and served by HTTP server.  Write your code in `app/` dir.
-  * Place static files you want to be copied from `app/public/` to `public/`.
-  * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
+  * `app/` directory is where you write your code.
+  * `app/public/` is where you place static files you want copied to `public/`.
+  * `public/` dir is auto-generated and served by HTTP, you can nuke it at will.
+  * [Brunch site](http://brunch.io)
+  * [Brunch guide](https://github.com/brunch/brunch-guide#readme)
