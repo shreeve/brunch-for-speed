@@ -1,4 +1,4 @@
-<div class="index">
+<div class="app">
   <%- include "logo" %>
   <main class="content"><%- include "content" %></main>
 </div>
