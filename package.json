@@ -1,8 +1,9 @@
 {
   "name": "brunch-for-speed",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "brunch-for-speed",
-  "author": "Paul Miller <paul@paulmillr.com>",
+  "author": "Steve Shreeve <steve.shreeve@gmail.com>",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": ""
