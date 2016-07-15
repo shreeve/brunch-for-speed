@@ -1,11 +1,11 @@
 <h2>Welcome</h2>
 <ul>
   <li><a href="http://brunch.io/">Brunch - Simple front-end build tool</a></li>
-  <li><a href="https://github.com/sstephenson/eco">Eco templates - Embedded CoffeeScript templates</a></li>
-  <li><a href="http://stylus-lang.com/">Stylus - Expressive, dynamic, robust CSS</a></li>
-  <li><a href="http://coffeescript.org/">CoffeeScript - Write cleaner JavaScript</a></li>
-  <li><a href="https://github.com/postcss/autoprefixer">Auto Prefixer - Automatic CSS prefixing</a></li>
-  <li><a href="https://github.com/brunch/auto-reload-brunch">Auto Reload - Automatic browser reloading</a></li>
+  <li><a href="https://github.com/sstephenson/eco">Eco - HTML with CoffeeScript templates</a></li>
+  <li><a href="http://stylus-lang.com/">Stylus - Beautifully powerful CSS</a></li>
+  <li><a href="http://coffeescript.org/">CoffeeScript - Cleaner JavaScript</a></li>
+  <li><a href="https://github.com/postcss/autoprefixer">Auto Prefixer - CSS prefixing</a></li>
+  <li><a href="https://github.com/brunch/auto-reload-brunch">Auto Reload - Browser reloading</a></li>
   <li><a href="https://github.com/visionmedia/page.js">Page - Tiny client-side routing</a></li>
 </ul>
 <p>Go ahead and write some code!</p>

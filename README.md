@@ -3,11 +3,11 @@
 Simple brunch skeleton for designers and prototypers, using:
 
 * [Brunch - Simple front-end build tool](http://brunch.io/)
-* [Eco templates - Embedded CoffeeScript templates](https://github.com/sstephenson/eco)
-* [Stylus - Expressive, dynamic, robust CSS](http://stylus-lang.com/)
-* [CoffeeScript - Write cleaner JavaScript](http://coffeescript.org/)
-* [Auto Prefixer - Automatic CSS prefixing](https://github.com/postcss/autoprefixer)
-* [Auto Reload - Automatic browser reloading](https://github.com/brunch/auto-reload-brunch)
+* [Eco - HTML with CoffeeScript templates](https://github.com/sstephenson/eco)
+* [Stylus - Beautifully powerful CSS](http://stylus-lang.com/)
+* [CoffeeScript - Cleaner JavaScript](http://coffeescript.org/)
+* [Auto Prefixer - CSS prefixing](https://github.com/postcss/autoprefixer)
+* [Auto Reload - Browser reloading](https://github.com/brunch/auto-reload-brunch)
 * [Page - Tiny client-side routing](https://github.com/visionmedia/page.js)
 
 ## Installation
