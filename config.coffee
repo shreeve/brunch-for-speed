@@ -8,7 +8,7 @@ module.exports =
 
   conventions:
     assets: /^app\/public[\\\/]/
-    ignored: /^app\/styles\/(?!index\.styl)/
+    ignored: /^app\/styles\//
 
   files:
     javascripts:
