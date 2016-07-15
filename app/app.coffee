@@ -1,25 +1,19 @@
 route = require 'page'
 
-window.include = (page) -> require("pages/#{page}")()
+window.include = (page, data) -> require("pages/#{page}")(data)
 
-router = (handler) ->
+$ ->
   route '*', (url, next) ->
-    miss = false
-    page = try
-      include url.path
-    catch
-      miss = true
-      include 'index'
-    body = $(document.body)
-    if miss
-      body.fadeOut 150, ->
-        body.html page
-        body.fadeIn 150
-    else
-      body.html page
-    handler url, page, miss
-  route()
+    body = $('body')
+    page = try include(url.path) catch oops then include('app')
+    wait = if oops then 100 else 0
 
-document.addEventListener 'DOMContentLoaded', ->
-  router (url, page, miss) ->
-    # custom page handler...
+    # simple page swap
+    body.fadeOut wait, ->
+      body.html(page)
+      
+      # add custom routing here...
+
+      body.fadeIn wait if wait
+
+  route()
