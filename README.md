@@ -12,7 +12,7 @@ Simple brunch skeleton for designers and prototypers, using:
 
 ## Installation
 
-Clone this repo manually or use `brunch new dir -s brunch/for-speed`
+Clone this repo manually or use `brunch new dir -s shreeve/brunch-for-speed`
 
 ## Getting started
 
