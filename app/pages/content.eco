@@ -1,7 +1,7 @@
 <h2>Welcome!</h2>
 <ul>
   <li><a href="http://brunch.io/">Brunch - Simple front-end build tool</a></li>
-  <li><a href="https://github.com/sstephenson/eco">Eco - HTML with CoffeeScript templates</a></li>
+  <li><a href="https://github.com/sstephenson/eco">Eco - HTML/CoffeeScript templates</a></li>
   <li><a href="http://stylus-lang.com/">Stylus - Beautifully powerful CSS</a></li>
   <li><a href="http://coffeescript.org/">CoffeeScript - Cleaner JavaScript</a></li>
   <li><a href="https://github.com/postcss/autoprefixer">Auto Prefixer - CSS prefixing</a></li>

@@ -3,7 +3,7 @@
 Simple brunch skeleton for designers and prototypers, using:
 
 * [Brunch - Simple front-end build tool](http://brunch.io/)
-* [Eco - HTML with CoffeeScript templates](https://github.com/sstephenson/eco)
+* [Eco - HTML/CoffeeScript templates](https://github.com/sstephenson/eco)
 * [Stylus - Beautifully powerful CSS](http://stylus-lang.com/)
 * [CoffeeScript - Cleaner JavaScript](http://coffeescript.org/)
 * [Auto Prefixer - CSS prefixing](https://github.com/postcss/autoprefixer)
