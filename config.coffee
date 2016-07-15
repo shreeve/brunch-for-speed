@@ -7,7 +7,6 @@ module.exports =
       '$': 'jquery'
 
   conventions:
-    assets: /^app\/public[\\\/]/
     ignored: /^app\/styles\//
 
   files:
